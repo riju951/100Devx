@@ -2,12 +2,12 @@
 
 ### 1) Intro, Setting up Your IDE
 
-Landing page of Zerodha
-IDE --> Integrated Development environment
+1. Landing page of Zerodha
+2. IDE --> Integrated Development environment
 
-HTML --> Very Minimal
-CSS --> Minimal
-JS --> Maximum
+3. HTML --> Very Minimal
+4. CSS --> Minimal
+5. JS --> Maximum
 
 ### 2) HTML Basics (Tags & Attributes)
 
@@ -15,7 +15,7 @@ Zerodha Fronted
 
 ### 3) CSS Basics
 
-Add Styles
+1. Add Styles
 
 Link to the repo : https://github.com/riju951/zerodhaLandingPage
 
