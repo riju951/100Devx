@@ -61,3 +61,52 @@ Link to Live site : https://riju951.github.io/zerodhaLandingPage/
 1. JS Browswer Architecture
 2. Promises
 3. Async wait
+
+
+# Week 2
+
+### 1) Revision of Async JS
+1. Callbacks
+2. Async Functions
+3. Promises
+4. JS function
+
+### 2) Node js runtime/ HTTP
+1. ECMA Script
+2. HTTP server - Client side and server side
+3. DNS resolution
+4. Common Req to Backend server - GET POST PUT DELETE
+
+### 3) Bash and Node Terminal
+1. pwd
+2. cd
+3. ls
+4. mkdir
+5. touch
+6. cat
+7. vi
+8. mv
+9. cp
+10. nvm
+11. npm
+12. node
+
+### 4) Bash ( Advance ) how to install node
+1. rm
+2. chmod
+3. echo
+4. lead
+5. grep
+
+### 5) Express with Examples
+1. Hospital Project
+
+### 6) Filter, map and Arrow functions
+
+### 7) Git and Github
+1. Git - Open source version control system
+2. Centralised vs distributes
+3. Git - OS, Scalabe and Fast
+4. Github
+5. Blob
+
