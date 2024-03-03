@@ -19,7 +19,7 @@ Zerodha Fronted
 
 Link to the repo : https://github.com/riju951/zerodhaLandingPage
 
-Link to Live site : https://riju951.github.io/zerodhaLandingPage/ 
+Link to Live site : https://riju951.github.io/zerodhaLandingPage 
 
 # Week 1
 
