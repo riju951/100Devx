@@ -110,3 +110,49 @@ Link to Live site : https://riju951.github.io/zerodhaLandingPage
 4. Github
 5. Blob
 
+
+# Week 3
+
+### 0) Revision
+1) What we're covering in week 3
+2) JS Foundation revision
+3) Node.js runtime
+4) Express basics
+5) Express Advance Intro
+6) Databases Intro
+7) Mongo installation
+8) Postgres installation
+
+### 1) Fetch, Authentication and Databases
+1) Fetch API
+2) Authentication
+   Hashing
+   Encrytption
+   JSON web tokens
+   local storage
+3) Databases
+    Graph
+    Vector
+    SQL
+    NoSQL
+4) Express
+
+### 2) Zod, middlwares 
+1) Hospital
+2) Global catches
+3) Schema validation
+4) Authentication
+
+### 3) Middleware with example
+1) Amsument part example
+2) Express is sequence of middleware
+
+### 4) Authentication, JWTs and try/catch using real world examples
+1) Mishra ji SBI example -- chequew book
+2) GPT
+3) JWT
+
+### 5) DOM - Document Object Model
+1) DOM is bridge
+2) HTML collection vs nodelist
+
