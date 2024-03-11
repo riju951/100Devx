@@ -156,3 +156,20 @@ Link to Live site : https://riju951.github.io/zerodhaLandingPage
 1) DOM is bridge
 2) HTML collection vs nodelist
 
+
+# Week 4
+
+### 1) DOM Intro
+1) DOM Api is programming interface.
+2) debouncing and throtting
+
+### 2) React Foundation
+1) HTML being injected with DOM via JS
+2) npm create vite@latest
+
+### 3) Mongo Deep Dive + week 3 assignment
+1) CRUD
+2) Mongoose --> Define your schema
+3) 3 Jargons --> Cluster, Database & Table
+4) Authenication in real world
+
