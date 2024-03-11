@@ -167,9 +167,17 @@ Link to Live site : https://riju951.github.io/zerodhaLandingPage
 1) HTML being injected with DOM via JS
 2) npm create vite@latest
 
-### 3) Mongo Deep Dive + week 3 assignment
-1) CRUD
-2) Mongoose --> Define your schema
-3) 3 Jargons --> Cluster, Database & Table
-4) Authenication in real world
+# Week 5
+
+### 1) Diving into React
+1) static vs dynamic
+2) why react
+3) state, components and re rendering
+4) Virual DOM
+5) Counter App
+
+### 2) React Project ( Todo App )
+1) Stackedit.io
+2) Backend
+3) Frontend
 
