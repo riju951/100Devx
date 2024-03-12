@@ -1,29 +1,32 @@
-// In App.jsx
-import React from 'react';
-import { BusinessCard } from './Card'; // Changed to named import to match the exported component
+import { useEffect, useState } from "react";
+import axios from "axios";
+import "./App.css";
+import BusinessCard from "./components/BusinessCard";
 
 function App() {
-  const cardInfo = {
-    name: "Jane Doe",
-    description: "Software Engineer | Tech Enthusiast",
-    interests: ["Coding", "Tech Blogging", "Gaming"],
-    linkedin: "https://www.linkedin.com/in/janedoe",
-    twitter: "https://twitter.com/janedoe",
-    otherSocialMedia: { url: "https://github.com/janedoe", label: "GitHub" } // Ensure this matches what the BusinessCard component expects
+  const [cards, setCards] = useState([]);
+
+  const BASE_URL = "http://localhost:3000";
+
+  const fetchCards = async () => {
+    const resp = await axios.get(`${BASE_URL}/cards`);
+    setCards(resp.data.cards);
   };
 
+  useEffect(() => {
+    fetchCards();
+  }, []);
+
   return (
-    <div>
-      <BusinessCard
-        name={cardInfo.name}
-        description={cardInfo.description}
-        interests={cardInfo.interests}
-        linkedin={cardInfo.linkedin}
-        twitter={cardInfo.twitter}
-        otherSocialMedia={cardInfo.otherSocialMedia.url} // Adjusted to pass the URL directly
-        otherSocialMediaLabel={cardInfo.otherSocialMedia.label} // Pass the label as a separate prop
-      />
-    </div>
+    <>
+      <h1>Business Cards</h1>
+
+      <div className="cards">
+        {cards.map((card) => (
+          <BusinessCard key={card._id} details={card} />
+        ))}
+      </div>
+    </>
   );
 }
 
