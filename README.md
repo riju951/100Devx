@@ -181,3 +181,32 @@ Link to Live site : https://riju951.github.io/zerodhaLandingPage
 2) Backend
 3) Frontend
 
+# Week 6
+
+### 1) React Hooks
+1) React App
+2) Re-rendering
+3) React memo
+4) keys
+5) wrapper
+6) hooks
+
+### 2) use Effect, use Memo, use callback
+1) SideEffect
+2) Hooks
+3) usememo
+4) usecallback
+5) custom hooks
+6) memo vs usememo
+
+### 3) React App
+1) Reconcilliation - CA example
+2) state
+3) usestate
+4) useeffect
+5) usememo
+6) usecallback
+7) useref
+
+### 4) Assignment
+
